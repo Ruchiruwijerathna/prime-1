@@ -133,7 +133,7 @@ const CONFIG = {
        Change REGION_LABELS below
   ════════════════════════════════════════════════════════ */
 
- REGION_LABELS: ["Urban",  "Rural"],
+ REGION_LABELS: ["Urban","Rural"],
 
   URBAN_AREAS: [
     "Colombo",        "Malabe",          "Rajagiriya",
