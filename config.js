@@ -101,7 +101,6 @@ const CONFIG = {
   ════════════════════════════════════════════════════════ */
 
   PLOT_BUCKETS: [
-    { label: "1–5 perches",   max: 5    },
     { label: "6–8 perches",   max: 8    },
     { label: "9–11 perches",  max: 11   },
     { label: "12–15 perches", max: 15   },
@@ -133,7 +132,7 @@ const CONFIG = {
        Change REGION_LABELS below
   ════════════════════════════════════════════════════════ */
 
-  REGION_LABELS: ["Urban", "Suburban", "Rural"],
+  REGION_LABELS: ["Urban","Rural"],
 
   URBAN_AREAS: [
     "Colombo",        "Malabe",          "Rajagiriya",
@@ -145,10 +144,7 @@ const CONFIG = {
     "Thalawathugoda", "Madiwela",        "Hokandara",
     "Malwana",        "Welikade",        "Kesbewa",
     "Narahenpita",    "Gangodawila",     "Pita Kotte",
-  ],
-
-  SUBURBAN_AREAS: [
-    "Kadawatha",    "Gampaha",       "Negombo",
+     "Kadawatha",    "Gampaha",       "Negombo",
     "Ja-Ela",       "Wattala",       "Kelaniya",
     "Bandaragama",  "Panadura",      "Kalutara",
     "Moratuwa",     "Wadduwa",       "Beruwala",
@@ -161,6 +157,8 @@ const CONFIG = {
     "Minuwangoda",  "Ganemulla",     "Divulapitiya",
     "Alawwa",       "Warakapola",    "Rambukkana",
   ],
+
+  
   // Everything NOT in the above two lists → "Rural"
 
 
