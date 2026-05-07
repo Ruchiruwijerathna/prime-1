@@ -52,7 +52,7 @@ const CONFIG = {
   ════════════════════════════════════════════════════════ */
 
   DASHBOARD_TITLE:    "Land Market — Competitor Analysis",
-  DASHBOARD_SUBTITLE: "Real Estate Intelligence Dashboard · 2026",
+  DASHBOARD_SUBTITLE: "Real Estate Land Data Dashboard · 2026",
   DATA_DATE:          "📅 Updated: 2026 April",
 
 
@@ -62,7 +62,7 @@ const CONFIG = {
      Set to 0 to disable.
   ════════════════════════════════════════════════════════ */
 
-  AUTO_REFRESH_MINUTES: 2,
+  AUTO_REFRESH_MINUTES: 1,
 
 
   /* ════════════════════════════════════════════════════════
@@ -71,7 +71,7 @@ const CONFIG = {
 
   TOP_COMPANIES_COUNT:       15,   // companies shown in bar charts
   TOP_LOCATIONS_COUNT:       15,   // locations in Top Locations chart
-  TOP_PRICE_LOCATIONS_COUNT: 12,   // locations in Avg Price chart
+  TOP_PRICE_LOCATIONS_COUNT: 15,   // locations in Avg Price chart
   CURRENT_YEAR:              2026, // used to calculate years in business
 
 
