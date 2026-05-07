@@ -101,7 +101,7 @@ const CONFIG = {
   ════════════════════════════════════════════════════════ */
 
   PLOT_BUCKETS: [
-    { label: "1–5 perches",   max: 5    },
+    
     { label: "6–8 perches",   max: 8    },
     { label: "9–11 perches",  max: 11   },
     { label: "12–15 perches", max: 15   },
@@ -145,9 +145,6 @@ const CONFIG = {
     "Thalawathugoda", "Madiwela",        "Hokandara",
     "Malwana",        "Welikade",        "Kesbewa",
     "Narahenpita",    "Gangodawila",     "Pita Kotte",
-  ],
-
-  SUBURBAN_AREAS: [
     "Kadawatha",    "Gampaha",       "Negombo",
     "Ja-Ela",       "Wattala",       "Kelaniya",
     "Bandaragama",  "Panadura",      "Kalutara",
