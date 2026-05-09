@@ -69,9 +69,9 @@ const CONFIG = {
      📊  CHART SIZES
   ════════════════════════════════════════════════════════ */
 
-  TOP_COMPANIES_COUNT:       15,   // companies shown in bar charts
-  TOP_LOCATIONS_COUNT:       15,   // locations in Top Locations chart
-  TOP_PRICE_LOCATIONS_COUNT: 15,   // locations in Avg Price chart
+  TOP_COMPANIES_COUNT:       20,   // companies shown in bar charts
+  TOP_LOCATIONS_COUNT:       20,   // locations in Top Locations chart
+  TOP_PRICE_LOCATIONS_COUNT: 20,   // locations in Avg Price chart
   CURRENT_YEAR:              2026, // used to calculate years in business
 
 
